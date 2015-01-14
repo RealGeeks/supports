@@ -2,9 +2,6 @@
   "name": "supports",
   "version": "0.1.0",
   "description": "Modular feature detection library.",
-  "files": [
-    "index.js"
-  ],
   "scripts": {
     "test": "jshint index.js tests.js && jscs index.js tests.js && testem ci",
     "watch": "testem -g"

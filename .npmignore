@@ -1,0 +1,10 @@
+*.log
+test-bundle.js
+.editorconfig
+.gitattributes
+.gitignore
+.jscsrc
+.jshintrc
+.npmignore
+testem.json
+tests.js
