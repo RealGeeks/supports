@@ -1,6 +1,6 @@
 {
   "name": "supports",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Modular feature detection library.",
   "scripts": {
     "test": "jshint index.js tests.js && jscs index.js tests.js && testem ci",
